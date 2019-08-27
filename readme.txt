@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.
 Add merge.
 fix bug 101.
 Work a half.
+Creating a new branch is quick.
