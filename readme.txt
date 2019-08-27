@@ -9,3 +9,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 add merge.
 temporatory doing something.
+doing something in a half.
